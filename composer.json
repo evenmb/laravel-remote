@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/remote",
+    "name": "evenmb/laravel-remote",
     "description": "Remote SSH access for The Laravel Framework.",
     "license": "MIT",
     "homepage": "http://laravelcollective.com",
@@ -15,6 +15,10 @@
         {
             "name": "Tom Shafer",
             "email": "tj@tjshafer.com"
+        },
+        {
+            "name": "Moses Buch",
+            "email": "mb@evenmeda.de"
         }
     ],
     "require": {
